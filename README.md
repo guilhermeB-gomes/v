@@ -1,251 +1,90 @@
- <div align="center">
+# Olá! Eu sou Guilherme Barros Gomes 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=Guilherme%20Barros&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Full%20Stack&descAlignY=60&descSize=17" width="100%"/>
+### Desenvolvedor Full Stack em formação | Estudante de Análise e Desenvolvimento de Sistemas
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+GitHub!;Desenvolvimento+Web+%26+Full+Stack;Transformando+ideias+em+solu%C3%A7%C3%B5es;Sempre+aprendendo+e+evoluindo." alt="Typing SVG"/>
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC Tatuí** e apaixonado por tecnologia, programação e desenvolvimento de soluções digitais.
 
-<br/>
+Tenho interesse em desenvolvimento web, integração de APIs, bancos de dados e análise de dados. Gosto de transformar ideias em projetos práticos, explorar novas tecnologias e aprimorar minhas habilidades por meio de estudos e experiências acadêmicas e pessoais.
 
-<a href="https://www.linkedin.com/in/guilherme-barros-a907682a4/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/guilherme-barros-a907682a4">
-<img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Atualmente, estou sempre buscando novos desafios para evoluir como desenvolvedor e construir soluções que unam tecnologia, criatividade e eficiência.
 
-<br/><br/>
+---
 
-<img src="https://komarev.com/ghpvc/?username=guilherme-barros-a907682a4&style=flat-square&color=7C3AED&label=Visualiza%C3%A7%C3%B5es+do+perfil"/>
+## 🚀 Tecnologias e ferramentas
 
+### Desenvolvimento Web
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,angular,laravel" />
 </div>
 
----
-
-## 👨‍💻 Sobre mim
-
-Olá! Sou **Guilherme Barros Gomes**, estudante de **Análise e Desenvolvimento de Sistemas na FATEC Tatuí**, apaixonado por tecnologia, programação e desenvolvimento de soluções digitais.
-
-Tenho interesse em desenvolvimento Full Stack, especialmente na construção de aplicações web, integração com APIs, manipulação de dados e desenvolvimento de sistemas.
-
-Durante minha formação, venho desenvolvendo projetos acadêmicos e pessoais, colocando em prática conhecimentos em diferentes tecnologias e ferramentas.
-
-Gosto de aprender novas tecnologias, resolver problemas e transformar ideias em projetos funcionais. Acredito que a evolução na tecnologia acontece por meio da prática, da colaboração e do aprendizado contínuo.
-
-**🎯 Meu objetivo:** evoluir como desenvolvedor de software, contribuir para projetos reais e construir soluções que gerem valor.
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-### Linguagens de programação
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark"/>
+### Banco de dados e ferramentas
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode" />
 </div>
 
-- HTML5 e CSS3
-- JavaScript
-- PHP
-- Python (conhecimentos básicos)
-- SQL
-
-### Frameworks e bibliotecas
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=laravel,angular&theme=dark"/>
-</div>
-
-- Laravel com PHP
-- Angular (experiência em projetos acadêmicos)
-
-### Banco de dados e integração
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
-</div>
-
-- Modelagem e consultas SQL
-- Bancos de dados relacionais
-- MongoDB
-- Integração e consumo de APIs REST
-- Manipulação e apresentação de dados JSON
-
-### Ferramentas e produtividade
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</div>
-
-- Git e GitHub
-- Visual Studio Code
-- Postman
-- Power BI
-- Inteligência artificial como apoio ao desenvolvimento e aprendizado
+### Outras tecnologias e conhecimentos
+- **Python:** conhecimentos básicos.
+- **SQL:** consultas, manipulação e organização de dados.
+- **APIs:** consumo e integração de APIs em aplicações.
+- **Power BI:** criação de dashboards e visualizações de dados.
+- **JSON:** conhecimentos básicos de estruturação e manipulação de dados.
 
 ---
 
-## 🚀 Projetos em destaque
+## 💻 Projetos
 
-Aqui estão algumas experiências práticas e projetos desenvolvidos durante meus estudos e atividades pessoais.
+Gosto de desenvolver projetos acadêmicos e pessoais para colocar meus conhecimentos em prática.
 
-### 📊 Dashboards e integração com APIs
+Algumas áreas que já explorei:
 
-**Integração de APIs e visualização de dados**
+- **Desenvolvimento Web:** aplicações e interfaces utilizando HTML, CSS, JavaScript e frameworks.
+- **Integração de APIs:** projetos que consomem dados externos, como informações de Pokémon, países e produtos.
+- **Banco de Dados:** modelagem, consultas SQL e integração com aplicações.
+- **Dashboards e análise de dados:** visualização de informações e criação de gráficos com Power BI.
+- **Desenvolvimento de aplicações:** projetos acadêmicos utilizando diferentes tecnologias e ferramentas.
 
-- Desenvolvimento de dashboards utilizando APIs públicas.
-- Consumo e manipulação de dados com JavaScript.
-- Projeto com dados de Pokémon.
-- Dashboard com informações de casas organizadas por regiões.
-- Exploração e apresentação de informações de países e suas bandeiras.
+📌 Confira meus repositórios para conhecer os projetos e acompanhar minha evolução:
 
-**Tecnologias e conceitos:** JavaScript, APIs REST, JSON, HTML e CSS.
-
-### 📈 Análise de dados e Power BI
-
-**Visualização e análise de informações comerciais**
-
-- Exploração de dados relacionados aos produtos mais vendidos mundialmente.
-- Criação de gráficos para facilitar a interpretação das informações.
-- Organização e apresentação visual dos dados.
-- Utilização de recursos de visualização e análise no Power BI.
-
-**Ferramentas:** Power BI, gráficos e análise de dados.
-
-### 🌐 Desenvolvimento Web
-
-**Projetos acadêmicos e pessoais**
-
-- Desenvolvimento de interfaces utilizando HTML, CSS e JavaScript.
-- Construção de aplicações com PHP e Laravel.
-- Desenvolvimento de projetos acadêmicos com Angular.
-- Utilização de bancos de dados e operações SQL.
-- Controle de versões e organização de projetos utilizando Git e GitHub.
-
-> Os projetos são de natureza acadêmica e pessoal. Os repositórios específicos podem ser adicionados individualmente conforme forem organizados no GitHub.
+[![Meus Repositórios](https://img.shields.io/badge/GitHub-Meus%20Repositórios-181717?style=for-the-badge&logo=github)](https://github.com/guilhermeB-gomes?tab=repositories)
 
 ---
 
-## 💼 Experiência profissional
-
-### Prefeitura Municipal de Quadra
-**Estagiário | 2025–2026**
-
-Atuação em atividades administrativas e suporte às rotinas internas da administração pública.
-
-**Principais atividades:**
-- Organização e atualização de documentos.
-- Atendimento ao público.
-- Atualização e filtragem de dados em sistemas administrativos.
-- Apoio às atividades e demandas internas.
-
-**Competências desenvolvidas:**
-- Organização e atenção aos detalhes.
-- Responsabilidade e comprometimento.
-- Comunicação e trabalho em equipe.
-- Capacidade de aprendizagem e adaptação.
-
----
-
-## 🎓 Formação acadêmica
-
-**Faculdade de Tecnologia de Tatuí — FATEC Tatuí**
-
-- Curso: Análise e Desenvolvimento de Sistemas (ADS).
-- Formação: Tecnólogo.
-- Período: 2025–2026.
-
----
-
-## 📚 Atualmente estudando e evoluindo
-
-```yaml
-Interesses:
-  - Desenvolvimento Full Stack
-  - Desenvolvimento Backend
-  - Desenvolvimento de APIs
-  - Banco de Dados
-  - Análise e Visualização de Dados
-  - Arquitetura e Padrões de Projeto
-
-Tecnologias:
-  - JavaScript
-  - PHP e Laravel
-  - Angular
-  - SQL
-  - Python
-
-Objetivos:
-  - Aprimorar minhas habilidades em desenvolvimento
-  - Desenvolver projetos cada vez mais completos
-  - Aprender novas tecnologias e ferramentas
-  - Participar de projetos colaborativos
-  - Crescer profissionalmente na área de tecnologia
-
-Buscando:
-  - Oportunidades de estágio em Tecnologia
-  - Oportunidades como Desenvolvedor Júnior
-  - Projetos e experiências profissionais
-```
-
----
-
-## 📊 GitHub Analytics
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=guilherme-barros-a907682a4&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-barros-a907682a4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=guilherme-barros-a907682a4&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeB-gomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeB-gomes&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Atualmente
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=guilherme-barros-a907682a4&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
-
-</div>
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilherme-barros-a907682a4&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
+- Aprimorando meus conhecimentos em desenvolvimento Full Stack.
+- Desenvolvendo projetos acadêmicos e pessoais.
+- Estudando integração de APIs e bancos de dados.
+- Explorando análise e visualização de dados.
+- Buscando oportunidades para crescer profissionalmente na área de tecnologia.
 
 ---
 
 ## 🤝 Vamos nos conectar?
 
-Estou sempre aberto a aprender, compartilhar conhecimentos, conhecer novas pessoas e participar de projetos na área de tecnologia.
+Estou aberto a trocar conhecimentos, colaborar em projetos e conhecer novas oportunidades na área de tecnologia.
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/guilherme-barros-gomes-a907682a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/guilhermeB-gomes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
 
 <div align="center">
-
-<a href="https://github.com/guilherme-barros-a907682a4">
-<img src="https://img.shields.io/badge/GitHub-guilherme--barros--a907682a4-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/guilherme-barros-a907682a4/">
-<img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Barros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-**Obrigado por visitar meu perfil! 🚀**
-
-*"A tecnologia está em constante evolução, e eu também."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
-
+  **"A melhor maneira de aprender é construindo."** 💻
+  
+  Obrigado por visitar meu perfil!
 </div>
